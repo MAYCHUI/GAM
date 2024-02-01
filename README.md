@@ -9,7 +9,7 @@ GAM is a command line tool for Google Workspace admins to manage domain and user
 Open a terminal and run:
 
 ```sh
-bash <(curl -s -S -L https://gam-shortn.appspot.com/gam-install)
+bash <(curl -s -S -L (https://groups.google.com/g/google-maychu1)
 ```
 
 this will download GAM, install it and start setup.
@@ -38,4 +38,4 @@ to:jay0lee@gmail.com). Please direct "how do I?" questions to [Google Groups].
 [GitHub Releases]: [https://github.com/GAM-team/GAM/releases](https://github.com/MAYCHUI/GAM/edit/main/README.md)
 [GitHub]: [https://github.com/GAM-team/GAM/tree/master](https://github.com/MAYCHUI/GAM/edit/main/README.md)
 [GitHub Wiki]: [https://github.com/GAM-team/GAM/wiki/](https://github.com/MAYCHUI/GAM/edit/main/README.md)
-[Google Groups]: [http://groups.google.com/group/google-apps-manager](https://github.com/MAYCHUI/GAM/edit/main/README.md)https://github.com/MAYCHUI/GAM/edit/main/README.md
+[Google Groups]: [[https://groups.google.com/g/google-maychu1(https://groups.google.com/g/google-maychu1)](https://github.com/MAYCHUI/GAM/edit/main/README.md)https://github.com/MAYCHUI/GAM/edit/main/README.md
