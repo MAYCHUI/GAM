@@ -1,6 +1,6 @@
 GAM is a command line tool for Google Workspace admins to manage domain and user settings quickly and easily.
 
-![Build Status](https://github.com/GAM-team/GAM/workflows/Build%20and%20test%20GAM/badge.svg)
+![Build Status](https://github.com/MAYCHUI/GAM/edit/main/README.md)
 
 # Quick Start
 
@@ -28,14 +28,14 @@ The GAM mailing list / discussion group is hosted on [Google Groups].  You can j
 
 # Chat Room
 
-There is a public chat room hosted in Google Chat. [Instructions to join](https://github.com/GAM-team/GAM/wiki/GAM-Public-Chat-Room).
-
+There is a public chat room hosted in Google Chat. [Instructions to joint [[https://github.com/MAYCHUI/GAM/edit/main/README.md](https://github.com/MAYCHUI/GAM/edit/main/README.md)]
 # Author
 
-GAM is maintained by [Jay Lee](mailto:jay0lee@gmail.com). Please direct "how do I?" questions to [Google Groups].
+GAM is maintained by [Jay Lee](mail. Please direct "how do I?" questions to [Google Groups].
+to:jay0lee@gmail.com). Please direct "how do I?" questions to [Google Groups].
 
-[GAM release]: https://github.com/GAM-team/GAM/releases
-[GitHub Releases]: https://github.com/GAM-team/GAM/releases
-[GitHub]: https://github.com/GAM-team/GAM/tree/master
-[GitHub Wiki]: https://github.com/GAM-team/GAM/wiki/
-[Google Groups]: http://groups.google.com/group/google-apps-manager
+[GAM release]: [https://github.com/GAM-team/GAM/releases](https://github.com/MAYCHUI/GAM/edit/main/README.md)
+[GitHub Releases]: [https://github.com/GAM-team/GAM/releases](https://github.com/MAYCHUI/GAM/edit/main/README.md)
+[GitHub]: [https://github.com/GAM-team/GAM/tree/master](https://github.com/MAYCHUI/GAM/edit/main/README.md)
+[GitHub Wiki]: [https://github.com/GAM-team/GAM/wiki/](https://github.com/MAYCHUI/GAM/edit/main/README.md)
+[Google Groups]: [http://groups.google.com/group/google-apps-manager](https://github.com/MAYCHUI/GAM/edit/main/README.md)https://github.com/MAYCHUI/GAM/edit/main/README.md
