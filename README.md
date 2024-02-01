@@ -31,8 +31,8 @@ The GAM mailing list / discussion group is hosted on [Google Groups].  You can j
 There is a public chat room hosted in Google Chat. [Instructions to joint [[https://github.com/MAYCHUI/GAM/edit/main/README.md](https://github.com/MAYCHUI/GAM/edit/main/README.md)]
 # Author
 
-GAM is maintained by [Jay Lee](mail. Please direct "how do I?" questions to [Google Groups].
-to:jay0lee@gmail.com). Please direct "how do I?" questions to [Google Groups].
+GAM is maintained by [https://groups.google.com/g/google-maychu1](mail. Please direct "how do I?" questions to [Groups].
+to:https://groups.google.com/g/google-maychu1). Please direct "how do I?" questions to [Google Groups].
 
 [GAM release]: [https://github.com/GAM-team/GAM/releases](https://github.com/MAYCHUI/GAM/edit/main/README.md)
 [GitHub Releases]: [https://github.com/GAM-team/GAM/releases](https://github.com/MAYCHUI/GAM/edit/main/README.md)
